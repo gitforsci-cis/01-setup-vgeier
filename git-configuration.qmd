@@ -17,7 +17,7 @@ format:
 
 ```{r}
 library(usethis)
-use_git_config(scope = "user",
+use_git_config(scope = "project",
                user.name = "vgeier", 
                user.email = "valentin.geier@posteo.de")
 ```
